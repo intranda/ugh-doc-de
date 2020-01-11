@@ -26,5 +26,8 @@
   * [4.3. PICA+](4.-serialisierung/4.3.-pica+/README.md)
     * [4.3.1. Einführung](4.-serialisierung/4.3.-pica+/4.3.1.-einfu-hrung.md)
     * [4.3.2. Konfiguration](4.-serialisierung/4.3.-pica+/4.3.2.-konfiguration.md)
-    * [4.4. XStream](4.-serialisierung/4.3.-pica+/4.4.-xstream.md)
+  * [4.4. XStream](4.-serialisierung/4.4.-xstream.md)
+  * [4.5. RDF/XML](4.-serialisierung/4.5.-rdf-xml/README.md)
+    * [4.5.1. Einführung](4.-serialisierung/4.5.-rdf-xml/4.5.1.-einfu-hrung.md)
+    * [4.5.2. Konfiguration](4.-serialisierung/4.5.-rdf-xml/4.5.2.-konfiguration.md)
 
