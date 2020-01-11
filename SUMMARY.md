@@ -21,4 +21,5 @@
     * [4.2.1. Einführung](4.-serialisierung/4.2.-mets-mods/4.2.1.-einfu-hrung.md)
     * [4.2.2. Allgemeine Konfiguration](4.-serialisierung/4.2.-mets-mods/4.2.2.-allgemeine-konfiguration.md)
     * [4.2.3. Konfiguration des Mappings von Struktur- und Metadaten](4.-serialisierung/4.2.-mets-mods/4.2.3.-konfiguration-des-mappings-von-struktur-und-metadaten.md)
+    * [4.2.4. Erweiterte Möglicheiten des METS-Exports](4.-serialisierung/4.2.-mets-mods/4.2.4.-erweiterte-mo-glicheiten-des-mets-exports.md)
 
