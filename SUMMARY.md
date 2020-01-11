@@ -38,4 +38,6 @@
     * [4.6.5. Wertelisten](4.-serialisierung/4.6.-agora-database/4.6.5.-wertelisten.md)
     * [4.6.6. Metadatentyp-Mapping](4.-serialisierung/4.6.-agora-database/4.6.6.-metadatentyp-mapping.md)
     * [4.6.7. Strukturtyp-Mapping](4.-serialisierung/4.6.-agora-database/4.6.7.-strukturtyp-mapping.md)
+* [5. Ausblick](5.-ausblick.md)
+* [6. Zusätzliche Details](6.-zusa-tzliche-details.md)
 
