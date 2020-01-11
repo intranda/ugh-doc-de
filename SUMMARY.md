@@ -23,4 +23,7 @@
     * [4.2.3. Konfiguration des Mappings von Struktur- und Metadaten](4.-serialisierung/4.2.-mets-mods/4.2.3.-konfiguration-des-mappings-von-struktur-und-metadaten.md)
     * [4.2.4. Erweiterte Möglicheiten des METS-Exports](4.-serialisierung/4.2.-mets-mods/4.2.4.-erweiterte-mo-glicheiten-des-mets-exports.md)
     * [4.2.5. UghConvert](4.-serialisierung/4.2.-mets-mods/4.2.5.-ughconvert.md)
+  * [4.3. PICA+](4.-serialisierung/4.3.-pica+/README.md)
+    * [4.3.1. Einführung](4.-serialisierung/4.3.-pica+/4.3.1.-einfu-hrung.md)
+    * [4.3.2. Konfiguration](4.-serialisierung/4.3.-pica+/4.3.2.-konfiguration.md)
 
