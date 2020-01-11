@@ -30,4 +30,12 @@
   * [4.5. RDF/XML](4.-serialisierung/4.5.-rdf-xml/README.md)
     * [4.5.1. Einführung](4.-serialisierung/4.5.-rdf-xml/4.5.1.-einfu-hrung.md)
     * [4.5.2. Konfiguration](4.-serialisierung/4.5.-rdf-xml/4.5.2.-konfiguration.md)
+  * [4.6. AGORA-Database](4.-serialisierung/4.6.-agora-database/README.md)
+    * [4.6.1. Einführung](4.-serialisierung/4.6.-agora-database/4.6.1.-einfu-hrung.md)
+    * [4.6.2. Datenbankkonfiguration](4.-serialisierung/4.6.-agora-database/4.6.2.-datenbankkonfiguration.md)
+    * [4.6.3. Definition des Persistenten Identifiers in der Datenbank](4.-serialisierung/4.6.-agora-database/4.6.3.-definition-des-persistenten-identifiers-in-der-datenbank.md)
+    * [4.6.4. Vererbbare Metadatentypen](4.-serialisierung/4.6.-agora-database/4.6.4.-vererbbare-metadatentypen.md)
+    * [4.6.5. Wertelisten](4.-serialisierung/4.6.-agora-database/4.6.5.-wertelisten.md)
+    * [4.6.6. Metadatentyp-Mapping](4.-serialisierung/4.6.-agora-database/4.6.6.-metadatentyp-mapping.md)
+    * [4.6.7. Strukturtyp-Mapping](4.-serialisierung/4.6.-agora-database/4.6.7.-strukturtyp-mapping.md)
 
