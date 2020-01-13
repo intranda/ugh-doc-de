@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Dokumentation UGH Bibliothek](README.md)
-* [1. Einführung](1.-einfuehrung.md)
+* [1. Einführung](1.md)
 * [2. Dokumentmodell](2.-dokumentmodell/README.md)
   * [2.1. Strukturdaten](2.-dokumentmodell/2.1.-strukturdaten.md)
   * [2.2. Inhaltsdateien](2.-dokumentmodell/2.2.-inhaltsdateien.md)
