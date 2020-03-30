@@ -1,5 +1,5 @@
 ---
-description: Regelsätze und Referenzdokumentation
+description: Regelsätze und Referenzdokumentation für Goobi workflow
 ---
 
 # Dokumentation UGH Bibliothek
